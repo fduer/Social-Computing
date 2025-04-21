@@ -1,0 +1,2 @@
+dgl_graph.bin filter=lfs diff=lfs merge=lfs -text
+graph.pkl filter=lfs diff=lfs merge=lfs -text
